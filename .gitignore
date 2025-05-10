@@ -1,0 +1,4 @@
+project1/results/**.txt
+project1/results/**.xlsx
+project1/src/main
+.vscode
