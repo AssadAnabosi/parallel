@@ -142,9 +142,9 @@ CPU Speed is not turbo boost, rather its a fixed speed at all times.
 
 ### Graphs:
 
-![Execution Time vs. Thread Count](docs\graphs\Graph1.jpg)
+![Execution Time vs. Thread Count](docs/graphs/Graph1.jpg)
 
-![Speedup vs. Thread Count](docs\graphs\Graph2.jpg)
+![Speedup vs. Thread Count](docs/graphs/Graph2.jpg)
 
 ## 6. Discussion
 
