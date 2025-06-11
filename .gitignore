@@ -1,9 +1,7 @@
 project1/results/**.txt
-project1/results/**.xlsx
 project1/src/main
 
 project2/results/**.txt
-project2/results/**.xlsx
 project2/src/main
 
 .vscode
