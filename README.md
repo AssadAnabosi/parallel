@@ -1,0 +1,3 @@
+# PARALLEL AND DISTRIBUTED PROCESSING 
+Course Projects 
+AAUP - Jenin
